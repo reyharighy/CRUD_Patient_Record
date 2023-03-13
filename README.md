@@ -8,7 +8,7 @@ To get started with this application, you need to have Python 3 installed on you
 This is a modified CRUD Application from the previous version of this [repository](https://github.com/reyharighy/Integrating-CRUD-Application-with-CSV-Files-using-CLI-in-Python) with 'data.pickle' file is used as storage format and some built-in modules that provide various functions and tools for different purposes.
 
 ## Usage
-Just a friendly reminder. Create a folder where 'data.pickle' and 'Patient_Record_Caps_Project.py' are stored together and add as a workspace in order for the application to successfully load the the data.
+Just a friendly reminder. Create a single folder where 'data.pickle' and 'Patient_Record_Caps_Project.py' are stored together and add the folder as a workspace in order for the application to successfully load the data.
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork this repository and submit a pull request.
